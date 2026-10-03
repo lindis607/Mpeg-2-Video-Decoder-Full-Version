@@ -233,4 +233,4 @@ This repository serves as the official landing page for MPEG-2 Video Decoder. Th
 **Get the most recent version of MPEG-2 Video Decoder today!**
 
 ---
-**Last updated:** 2026-10-03 19:45:08 UTC
+**Last updated:** 2026-10-03 22:40:31 UTC
